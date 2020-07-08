@@ -1,19 +1,17 @@
-*, *::before, *::after {
-    box-sizing: border-box;
-    font-family: sans-serif;
-}
-
 body {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
     background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
     linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
     linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+.view-high-scores {
+    vertical-align: top;
+    text-align: left;
+}
+
+.time-clock {
+    vertical-align: top;
+    text-align: right;
 }
 
 .container {
@@ -49,11 +47,6 @@ body {
     border-color: black;
 }
 
-.start-btn, .next-btn {
-    font-size: 1.5rem;
-    font-weight: bold;
-    padding: 10px 20px;
-}
 
 .controls {
     display: flex;
@@ -67,6 +60,3 @@ body {
     align-items: center;
 }
 
-.hide {
-    display: none;
-}

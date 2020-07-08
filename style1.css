@@ -26,13 +26,6 @@ body {
     align-items: center;
 }
 
-.btn-grid {
-    display:grid;
-    grid-template-columns: repeat(2, auto);
-    gap: 10px;
-    margin: 20px 0;
-}
-
 .btn {
     background-color: lightsteelblue;
     border: 1 px solid;
@@ -47,26 +40,4 @@ body {
 .btn:hover {
     cursor: pointer;
     border-color: black;
-}
-
-.start-btn, .next-btn {
-    font-size: 1.5rem;
-    font-weight: bold;
-    padding: 10px 20px;
-}
-
-.controls {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.controls h1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.hide {
-    display: none;
 }
