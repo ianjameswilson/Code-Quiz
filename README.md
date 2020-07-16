@@ -3,12 +3,12 @@ Code Quiz Challenge
 
 Test your knowledge of JavaScript fundamentals by taking this timed quiz. High scores will be logged to gauge your progress compared to your peers. You have 75 seconds to answer 10 questions, but be aware that questions answered incorrectly will have 10 seconds subtracted from the clock.
 
-User Story
+User Story:
 AS A coding bootcamp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
-Acceptance Criteria
+Acceptance Criteria:
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
