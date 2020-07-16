@@ -1,6 +1,9 @@
 # Homework_Code-Quiz
 Code Quiz Challenge
 
+
+https://ianjameswilson.github.io/Homework_Code-Quiz/index.html
+
 Test your knowledge of JavaScript fundamentals by taking this timed quiz. High scores will be logged to gauge your progress compared to your peers. You have 75 seconds to answer 10 questions, but be aware that questions answered incorrectly will have 10 seconds subtracted from the clock.
 
 User Story:
