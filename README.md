@@ -1,7 +1,7 @@
 # Code-Quiz
 Code Quiz Challenge
 
-![](assets/images/code_quiz.png)
+![](Assets/Images/code_quiz.png)
 
 https://ianjameswilson.github.io/Code-Quiz/index.html
 
